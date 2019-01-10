@@ -1,0 +1,580 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Cuppy",
+      "publisher": "Minseung Song",
+      "tray_image_file": "tray_Cuppy.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Cuppy_smile.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02_Cuppy_lol.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_Cuppy_rofl.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04_Cuppy_sad.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05_Cuppy_cry.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06_Cuppy_love.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07_Cuppy_hate.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08_Cuppy_lovewithmug.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09_Cuppy_lovewithcookie.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10_Cuppy_hmm.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11_Cuppy_upset.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12_Cuppy_angry.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13_Cuppy_curious.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14_Cuppy_weird.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15_Cuppy_bluescreen.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16_Cuppy_angry.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17_Cuppy_tired.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18_Cuppy_workhard.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19_Cuppy_shine.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20_Cuppy_disgusting.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21_Cuppy_hi.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22_Cuppy_bye.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23_Cuppy_greentea.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24_Cuppy_phone.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25_Cuppy_battery.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "8",
+      "name": "Brasil",
+      "publisher": "stickers co.",
+      "tray_image_file": "flag.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "2",
+      "name": "Memes",
+      "publisher": "stickers co.",
+      "tray_image_file": "75.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_1.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "38.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "39.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "40.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "41.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "44.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "75.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },
+
+
+    {
+      "identifier": "3",
+      "name": "Memes 2",
+      "publisher": "stickers co.",
+      "tray_image_file": "88.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "45.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "58.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "59.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "62.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "76.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "78.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "79.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "81.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "82.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "86.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "88.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "99.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "100.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "102.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "103.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "104.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "105.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },
+
+
+    {
+      "identifier": "4",
+      "name": "Animal",
+      "publisher": "stickers co.",
+      "tray_image_file": "doge.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "92.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "93.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "5",
+      "name": "Homer",
+      "publisher": "stickers co.",
+      "tray_image_file": "23.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "6",
+      "name": "Pepe",
+      "publisher": "stickers co.",
+      "tray_image_file": "2.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "43.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "79.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "100.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "110.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "117.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "120.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "7",
+      "name": "GoT",
+      "publisher": "stickers co.",
+      "tray_image_file": "stark.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "36.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "53.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "54.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    }
+
+  ]
+}
